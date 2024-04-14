@@ -1,0 +1,32 @@
+a,b,c,1,true
+a,b,c,1,true
+true
+6
+a
+6
+true
+["f", undefined, "c", 1, …]
+[undefined, "c"]
+true
+0
+-1
+2
+punch
+2
+true
+Iterator{}
+true
+true
+["venue", "punch", "exter", "punch"]
+undefined
+[3]
+-4
+0
+["C", "o", "d", "e"]
+["c", "o", "d", "e"]
+sort
+["BSD", "dexter", "hero", "kite"]
+["dexter", "hero"]
+["kite", "cycle2", "cycle1", "BSD"]
+[1, 5, 3]
+["kite", "cycle2", "cycle2", "cycle1"]
